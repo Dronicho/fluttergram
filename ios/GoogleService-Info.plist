@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>524458379249-cr6enifu111vl2akskvfd9epd8becl4k.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.524458379249-cr6enifu111vl2akskvfd9epd8becl4k</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDd1lxdZz70Hw79WuGFHqj8hxpTYwoq2X0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>524458379249</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.fluttergram</string>
+	<key>PROJECT_ID</key>
+	<string>newagent-dunlcc</string>
+	<key>STORAGE_BUCKET</key>
+	<string>newagent-dunlcc.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:524458379249:ios:75ecda26184ad8c7dfa650</string>
+	<key>DATABASE_URL</key>
+	<string>https://newagent-dunlcc.firebaseio.com</string>
+</dict>
+</plist>
